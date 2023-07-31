@@ -40,7 +40,7 @@ You can find detailed instructions on how to host a Sample Next.Js application i
 - After choosing your project the CLI prompts you to choose the features you wish to initialise. Use the arrows keys to navigate to **AppSail** and mark it using **Spacebar** and Press Enter.
 - You can then enter **No** for the prompt *"Do you want to get-started with a list of recommended projects?"*
 - Next, You can enter **Yes** for the prompt *"Do you want to initialize an AppSail service in this directory?"*
-- For the build path prompt kindly choose the folder-path that contains the contents that are required to be deployed in the *Catalyst* console:
+- For the build path prompt kindly choose the folder-path that contains the contents which are required to be deployed in the *Catalyst* console:
 
   - Example: */Users/catalyst-solutions/Documents/appsail/build*
     ![]()
